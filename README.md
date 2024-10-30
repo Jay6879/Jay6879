@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay6879&label=Profile%20views&color=0e75b6&style=flat" alt="jay6879" /> </p>
 
-- 🌱 I’m currently learning **Mern && SQL** 
+- 🌱 I’m currently learning DSA(if u wanna help that is)
 
 - 💬 Ask me about **My Projects**
 
